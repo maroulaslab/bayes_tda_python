@@ -19,8 +19,8 @@ setup(
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',      
-    'Intended Audience :: Researchers',      
-    'Topic :: Topological Data Analysis :: Bayesian Inference',
+    'Intended Audience :: Science/Research',      
+    'Topic :: Scientific/Engineering :: Mathematics',
     'License :: OSI Approved :: MIT License',   # Again, pick a license
     'Programming Language :: Python :: 3',      #Specify which pyhton versions that you want to support
     'Programming Language :: Python :: 3.4',
