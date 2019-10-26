@@ -7,6 +7,8 @@ setup(
   version = '0.1',      
   license='MIT',        
   description = 'Point process model for Bayesian inference with persistence diagrams.',
+  long_description = README.md,
+  long_description_content_type = 'text/markdown',
   author = 'Christopher Oballe',
   author_email = 'coballejr@gmail.com',      
   url = 'https://github.com/coballejr/bayes_tda/',
