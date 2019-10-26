@@ -4,7 +4,7 @@ from distutils.core import setup
 setup(
   name = 'bayes_tda',
   packages = ['bayes_tda'],   
-  version = '0.1',      
+  version = '0.2',      
   license='MIT',        
   description = 'Point process model for Bayesian inference with persistence diagrams.',
   long_description = README.md,
